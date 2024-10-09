@@ -1,4 +1,4 @@
-# NeurIPS MedFM Challenge: 2nd - 2023
+# NeurIPS MedFM Challenge: 2nd Place - 2023
 
 This repository contains the code to reproduce the 2nd place submission for the [Foundation Model Prompting for Medical Image Classification Challenge 2023 (MedFM)](https://medfm2023.grand-challenge.org/medfm2023/).
 
